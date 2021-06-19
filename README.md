@@ -1,1 +1,1 @@
-deployto container plugin install testing
+deploy to container plugin installed 
