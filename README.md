@@ -1,2 +1,5 @@
+
 deploy to cointer testing
-NEED TO BUILD JERNKINS2
+NEED TO BUIL
+ok
+
